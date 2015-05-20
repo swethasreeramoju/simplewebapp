@@ -33,6 +33,6 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/PureApps_Training/javax.servlet.jar/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="D:/PureApps_Training/javax.servlet.jar/servlet-api-2.5.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
